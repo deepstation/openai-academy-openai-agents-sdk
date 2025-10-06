@@ -17,7 +17,7 @@ Check out how to **[Join Our Community And Ask Your Questions Here](https://deep
 
 ## DISCLAIMER
 
-The materials, frameworks, code, and presentations contained in this repository represent the original analytical work and intellectual synthesis of Aniket Maurya, created through independent research and analysis of publicly available sources, academic literature, and industry publications. 
+The materials, frameworks, code, and presentations contained in this repository represent the original analytical work and intellectual synthesis of [Aniket Maurya](https://linkedin.com/in/aniketmaurya), created through independent research and analysis of publicly available sources, academic literature, and industry publications. 
 
 These materials are provided for educational and informational purposes only. The views, opinions, and methodologies expressed herein are solely those of the author in his personal capacity and do not represent, reflect, or imply endorsement by any organization with which Aniket Maurya is currently affiliated or has been affiliated in the past, including but not limited to any company employer or any client organizations thereof.
 
