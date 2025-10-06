@@ -1,7 +1,7 @@
 # Build a Multi-Agent System using OpenAI Agents SDK
 
 ## Slides & Notebook
-Workshop slides and notebook are included above for Build a Multi-Agent System using OpenAI Agents SDK on the OpenAI Academy livestream on October 6th, 2025 at 3:00 PM - 4:00 PM EDT.
+Workshop slides and notebook are included above for Build a Multi-Agent System using OpenAI Agents SDK on the [OpenAI Academy livestream](https://academy.openai.com/public/events/build-a-multi-agent-system-using-openai-agents-sdk-9z0epx04nm) on October 6th, 2025 at 3:00 PM - 4:00 PM EDT.
 
 ## Join Our Community
 
@@ -17,9 +17,9 @@ Check out how to **[Join Our Community And Ask Your Questions Here](https://deep
 
 ## DISCLAIMER
 
-The materials, frameworks, code, and presentations contained in this repository represent the original analytical work and intellectual synthesis of Mashruk (Mash) Zahid, created through independent research and analysis of publicly available sources, academic literature, and industry publications. 
+The materials, frameworks, code, and presentations contained in this repository represent the original analytical work and intellectual synthesis of Aniket Maurya, created through independent research and analysis of publicly available sources, academic literature, and industry publications. 
 
-These materials are provided for educational and informational purposes only. The views, opinions, and methodologies expressed herein are solely those of the author in his personal capacity and do not represent, reflect, or imply endorsement by any organization with which Mashruk Zahid is currently affiliated or has been affiliated in the past, including but not limited to any company employer or any client organizations thereof.
+These materials are provided for educational and informational purposes only. The views, opinions, and methodologies expressed herein are solely those of the author in his personal capacity and do not represent, reflect, or imply endorsement by any organization with which Aniket Maurya is currently affiliated or has been affiliated in the past, including but not limited to any company employer or any client organizations thereof.
 
 No proprietary, confidential, or non-public information from any current or former employer or client has been used in the creation of these materials. All data, examples, and case studies are derived from public sources or are synthetic demonstrations created for illustrative purposes.
 
