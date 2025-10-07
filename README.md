@@ -3,9 +3,11 @@
 ## Slides & Notebook
 Workshop slides and notebook are included above for Build a Multi-Agent System using OpenAI Agents SDK on the [OpenAI Academy livestream](https://academy.openai.com/public/events/build-a-multi-agent-system-using-openai-agents-sdk-9z0epx04nm) on October 6th, 2025 at 3:00 PM - 4:00 PM EDT.
 
-Notebook in GitHub Repo: openai-academy.ipynb
 
-Slides: openai-academy.pdf
+### Resources
+- Notebook in GitHub Repo: [openai-academy.ipynb](openai-academy.ipynb)
+- Slides: [openai-academy.pdf](openai-academy.pdf)
+- Agentor: [https://github.com/CelestoAI/agentor](https://github.com/CelestoAI/agentor)
 
 ## Join Our Community
 
